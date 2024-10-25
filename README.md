@@ -20,5 +20,3 @@ Ranking countries based on their economic and environmental well-being using Gap
   * Determining Indicators' Impact based on Correlation
   * Data Anomalies
 * Calculating Final Rankings.
-
-# Git Access Status Check
