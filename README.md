@@ -10,7 +10,7 @@ Data of 16 Countries from 7 Regions over a time period of 16 Years was distilled
 **Pandas** and **Numpy** Libraries for data analysis. **Matplotlib** and **Plotly Express** Libraries for data visualization.
 
 ## Preview
-![Screenshot 2024-10-20 185246](https://github.com/user-attachments/assets/57a7f043-06d5-43d4-803d-66e1373eb0cc)
+![Screenshot 2024-10-20 185246](https://github.com/user-attachments/assets/e859e009-8b5b-475d-a062-71ccd966f092)
 
 ## Steps Involved / Methodolgy:
 * Data Cleaning
